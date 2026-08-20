@@ -1,0 +1,6 @@
+I started by setting up VS Code and installing the required extensions. 
+First, I installed Java and tested it by running a simple Hello World program. 
+Then I installed Prettier and used it to format an HTML file. 
+After that, I installed GitLens, created a Git commit for the HTML file, and checked the commit using GitLens features like blame and the commit graph. 
+This helped me understand the basic setup and how Git tracks changes in a project.
+Then we did Liveshare installation and setup and successfully conducted the program and got output.
