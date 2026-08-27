@@ -1,27 +1,8 @@
-# C++ Addition Program
+# Hello World C Program
 
-A simple C++ program that accepts two numbers from the user and displays their sum.
+A simple C program that prints "Hello World" on the screen.
 
 ## How to Compile
 
 ```bash
-g++ add.cpp -o add
-```
-
-## How to Run
-
-```bash
-./add
-```
-
-## Example Output
-
-```text
-Enter two numbers: 2
-3
-Sum = 5
-```
-
-## Student Name
-
-Prithvi H
+gcc hello.c -o hello
